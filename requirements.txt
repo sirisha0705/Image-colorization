@@ -1,0 +1,7 @@
+flask
+numpy
+pillow
+gunicorn
+joblib
+tensorflow-cpu
+keras
